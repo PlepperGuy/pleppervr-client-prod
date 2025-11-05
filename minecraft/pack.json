@@ -1,0 +1,76 @@
+{
+  "formatVersion": 1,
+  "name": "PlepperVR",
+  "version": "1.20.1-Testing",
+  "summary": "VR-focused Minecraft modpack with 86 mods including ImmersiveMC, Vivecraft, Create, Mekanism, Ars Nouveau, and performance optimizations.",
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "author": "PlepperGuy",
+  "overrides": {
+    "overrides": [
+      {
+        "mod": "vivecraft",
+        "side": "client",
+        "optional": true,
+        "description": "Vivecraft VR mod - manual installation required for VR functionality"
+      }
+    ]
+  },
+  "features": [
+    {
+      "name": "VR Support",
+      "description": "Full VR compatibility with ImmersiveMC and Vivecraft integration"
+    },
+    {
+      "name": "Performance Optimization",
+      "description": "Extensive performance optimizations with Embeddium, FerriteCore, and Entity Culling"
+    },
+    {
+      "name": "Technology Integration",
+      "description": "Complete tech ecosystem with Create, Mekanism, and Applied Energistics 2"
+    },
+    {
+      "name": "Magic System",
+      "description": "Comprehensive magic system with Ars Nouveau and related mods"
+    },
+    {
+      "name": "Enhanced Building",
+      "description": "Advanced building tools and decorative blocks"
+    },
+    {
+      "name": "Farming & Cooking",
+      "description": "Extensive farming and cooking content with Farmer's Delight"
+    }
+  ],
+  "modManagement": {
+    "tool": "Minecraft Mod Manager (mmm)",
+    "configuration": "modlist.json",
+    "lockFile": "modlist-lock.json"
+  },
+  "requirements": {
+    "java": {
+      "version": "17+",
+      "memory": {
+        "minimum": "4GB",
+        "recommended": "8GB"
+      }
+    },
+    "vr": {
+      "supported": true,
+      "required": false,
+      "mods": ["ImmersiveMC", "Vivecraft"]
+    }
+  },
+  "totalMods": 86,
+  "managedMods": 85,
+  "unmanagedMods": 1
+}

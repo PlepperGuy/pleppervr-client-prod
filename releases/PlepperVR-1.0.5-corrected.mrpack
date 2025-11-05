@@ -1,0 +1,646 @@
+{
+  "formatVersion": 1,
+  "game": "minecraft",
+  "gameVersion": "1.20.1",
+  "name": "PlepperVR",
+  "version": "1.0.5",
+  "summary": "A VR-enhanced Minecraft modpack",
+  "files": [
+    {
+      "path": "mods/alexscaves-2.0.2.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/U6GY0xp0/versions/lC8HHXOF/alexscaves-2.0.2.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/amendments-1.20-2.2.2.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/NCs7sRuH/amendments-1.20-2.2.2.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/appliedenergistics2-forge-15.4.10.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/7KVs6HMQ/appliedenergistics2-forge-15.4.10.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/apotheosis-forge-1.20.1-7.14.2.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/iVdwf2fH/versions/gt3x6x4A/apotheosis-forge-1.20.1-7.14.2.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/ars_caelum-forge-1.20.1-5.0.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/878/ars_caelum-1.20.1-5.0.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/ars_nouveau-1.20.1-4.13.2.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/XAe8hW5K/versions/4.13.2/ars_nouveau-1.20.1-4.13.2.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.3.6.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/MUkEbqTe/versions/sbF5JcYO/balm-forge-1.20.1-7.3.6.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/bookshelf-forge-1.20.1-20.1.10.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/ald4nUPN/versions/J6fKohhH/bookshelf-forge-1.20.1-20.1.10.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/carry-on-forge-1.20.1-2.1.2.4.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/pF8rbfIR/versions/B7sZg8oI/carry-on-forge-1.20.1-2.1.2.4.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/citadel-2.5.4-1.20.1.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5674/96/citadel-2.5.4-1.20.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/cloth-config-11.1.118-forge.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/KwLyimUu/cloth-config-11.1.118-forge.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/comforts-forge-6.3.0+1.20.1.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/879/comforts-6.3.0+1.20.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/configured-forge-1.20.1-2.2.3.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5180/900/configured-forge-1.20.1-2.2.3.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/controlling-10.0.1+1.20.1.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/880/controlling-10.0.1+1.20.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/create-1.20.1-0.5.1.f.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/fish001/create-1.20.1-0.5.1.f.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/create-deco-2.0.2-1.20.1-forge.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/sXvPz1aw/versions/2.0.2-forge/create-deco-2.0.2-1.20.1-forge.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/createenchantmentindustry-1.20.1-forge-1.2.9.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/JtICznfZ/versions/h1j2y3iD/createenchantmentindustry-1.20.1-forge-1.2.9.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/create-ore-excavation-1.20.1-1.4.0.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/DYBSc9qJ/versions/1.4.0-forge/create-ore-excavation-1.20.1-1.4.0.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/cucumber-forge-1.20.1-7.0.1.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/Rw4r3Dsf/versions/KRoIJr3P/Cucumber-forge-1.20.1-7.0.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/curios-forge-5.9.0+1.20.1.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/881/curios-forge-5.9.0+1.20.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/embeddium-1.0.2-forge-mc1.20.1.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/O8t9J4FJ/embeddium-1.0.2-forge-mc1.20.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/entityculling-forge-1.20.1-0.6.2.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/t5apjThB/entityculling-forge-1.20.1-0.6.2.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/enchantment descriptions-16.0.2.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/882/enchantment descriptions-16.0.2.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/effortless-building-1.20.1-3.2-all.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/Wa7oVMJO/versions/3.2-all/effortless-building-1.20.1-3.2-all.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/explorers-compass-1.20.1-2.2.4-forge.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/FqKFGF1W/versions/2.2.4-forge/explorers-compass-1.20.1-2.2.4-forge.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/falling-tree-1.20.1-4.3.3.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/883/falling-tree-1.20.1-4.3.3.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/farmingforblockheads-forge-1.20.1-14.0.3.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5438/381/farmingforblockheads-forge-1.20.1-14.0.3.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/6.0.1/forge/ferritecore-6.0.1-forge.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/ftb-chunks-forge-2001.1.4.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5478/300/ftb-chunks-forge-2001.1.4.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/ftb-library-forge-2001.2.4.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5561/637/ftb-library-forge-2001.2.4.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/ftb-teams-forge-2001.3.1.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5561/638/ftb-teams-forge-2001.3.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/guideapi-1.20.1-1.4.2.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/884/guideapi-1.20.1-1.4.2.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/immersivemc-1.20.1-forge-2.1.2.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/Xzy9fGij/versions/2.1.2-forge/immersivemc-1.20.1-forge-2.1.2.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/inventoryprofilesnext-forge-1.20.1-1.10.9.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/O7RB6m3h/versions/4.2.5/inventoryprofilesnext-forge-1.20.1-1.10.9.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/ItemPhysicLite_FORGE-1.20.1-1.6.4.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5438/382/ItemPhysicLite_FORGE-1.20.1-1.6.4.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/Jade-1.20.1-forge-11.9.2.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/nvQzSNjc/versions/g4X74Fxp/Jade-1.20.1-forge-11.9.2.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/JadeAddons-1.20.1-forge-0.6.0.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/fThnQli6/versions/v0.6.0/JadeAddons-1.20.1-forge-0.6.0.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.2.0.27.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/WLdnyl5O/jei-1.20.1-forge-15.2.0.27.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/journeymap-1.20.1-5.9.18-forge.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/885/journeymap-1.20.1-5.9.18-forge.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/kleeslabs-1.20.1-13.0.0.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/886/kleeslabs-1.20.1-13.0.0.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/kotlinforforge-4.11.0-all.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5478/301/kotlinforforge-4.11.0-all.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/libipn-1.0.0-forge.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/rGW0d9s8/versions/v1.0.0-forge/libipn-1.0.0-forge.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/lootr-1.20.1-0.7.34.83.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/ELNo8oek/versions/fzYvtrAH/lootr-1.20.1-0.7.34.83.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/macaws-doors-1.0.8-mc1.20.1.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/887/macaws-doors-1.0.8-mc1.20.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/macaws-furniture-3.6.0-mc1.20.1.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/888/macaws-furniture-3.6.0-mc1.20.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/macaws-windows-1.0.7-mc1.20.1.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/889/macaws-windows-1.0.7-mc1.20.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/mekanism-1.20.1-10.4.13.41.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/890/mekanism-1.20.1-10.4.13.41.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/moonlight-1.20-2.12.7-forge.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/URV5X4A5/versions/sV2Jtt9T/moonlight-1.20-2.12.7-forge.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/moonlight-1.20.1-forge-2.0.10.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/d1.0.2-1.20.1/moonlight-1.20.1-forge-2.0.10.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/mouse-tweaks-forge-mc1.20.1-2.25.1.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/u5Ic2U1u/versions/2.25.1-forge/mouse-tweaks-forge-mc1.20.1-2.25.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/mynethers-delight-1.20.1-1.3.0.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/Mdx3e5I0/versions/1.3.0-forge/mynethers-delight-1.20.1-1.3.0.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/naturescompass-1.20.1-1.11.0-forge.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/891/naturescompass-1.20.1-1.11.0-forge.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/naturalist-forge-4.0.3-1.20.1.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/D8F2hgLq/versions/4.0.3-forge/naturalist-forge-4.0.3-1.20.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/netherportalfix-1.20.1-12.0.2.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/892/netherportalfix-1.20.1-12.0.2.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/oculus-forge-1.20.1-7.0.1.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/7.0.1-forge/oculus-forge-1.20.1-7.0.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/patchouli-1.20.1-84-forge.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/1.20.1-84-forge/Patchouli-1.20.1-84-FORGE.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/pipez-1.20.1-1.2.15.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/893/pipez-1.20.1-1.2.15.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/searchables-forge-1.20.1-1.1.1.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/894/searchables-forge-1.20.1-1.1.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/simple-voice-chat-fabric-1.20.1-2.5.23.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2.5.23-fabric/simple-voice-chat-fabric-1.20.1-2.5.23.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.20.3.1051.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/6184/810/sophisticatedbackpacks-1.20.1-3.20.3.1051.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-0.6.27.603.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/6184/809/sophisticatedcore-1.20.1-0.6.27.603.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/sophisticatedstorage-1.20.1-0.10.28.801.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/6184/811/sophisticatedstorage-1.20.1-0.10.28.801.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/895/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/supplementaries-1.20.1-2.7.16-fabric.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/2.7.16-fabric/supplementaries-1.20.1-2.7.16-fabric.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/talk-balloons-forge-1.20.1-1.2.2.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/G1mj9VAF/versions/1.2.2-forge/talk-balloons-forge-1.20.1-1.2.2.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/Terralith_1.20.x_v2.5.4_forge.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/8cvlc1OC/versions/2.5.4-forge/Terralith_1.20.x_v2.5.4_forge.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/trash-cans-forge-1.20.1-1.0.18a.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/896/trash-cans-forge-1.20.1-1.0.18a.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/tradecycling-1.20.1-2.2.0-forge.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/PUu3JbAT/versions/2.2.0-forge/tradecycling-1.20.1-2.2.0-forge.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/veinmining-1.20.1-4.4.0.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/897/veinmining-1.20.1-4.4.0.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/vivecraft-1.20.1-1.1.14-forge.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/swGUFiIX/versions/1.20.1-1.1.14-forge/vivecraft-1.20.1-1.1.14-forge.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/visualworkbench-forge-1.20.1-1.5.0.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5478/302/visualworkbench-forge-1.20.1-1.5.0.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/waystones-forge-1.20.1-14.1.0.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5964/898/waystones-forge-1.20.1-14.1.0.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/YungsApi-1.20.1-Forge-4.0.4.jar",
+      "downloads": [
+        {
+          "url": "https://edge.forgecdn.net/files/5674/945/YungsApi-1.20.1-Forge-4.0.4.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/yungs-better-desert-temples-1.20.1-forge-3.1.1.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/XNnOYxC9/versions/3.1.1-forge/yungs-better-desert-temples-1.20.1-forge-3.1.1.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/yungs-better-jungle-temples-1.20.1-forge-2.1.0.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/zNR2SsH3/versions/2.1.0-forge/yungs-better-jungle-temples-1.20.1-forge-2.1.0.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/yungs-better-mineshafts-1.20.1-forge-4.0.4.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/gTmG8q7p/versions/4.0.4-forge/yungs-better-mineshafts-1.20.1-forge-4.0.4.jar"
+        }
+      ]
+    },
+    {
+      "path": "mods/yungs-better-ocean-monuments-1.20.1-forge-3.1.0.jar",
+      "downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/O8t9J4FJ/yungs-better-ocean-monuments-1.20.1-forge-3.1.0.jar"
+        }
+      ]
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.20.1",
+    "forge": ""
+  }
+}

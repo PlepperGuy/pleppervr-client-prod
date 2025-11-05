@@ -1,0 +1,431 @@
+{
+  "loader": "forge",
+  "gameVersion": "1.20.1",
+  "defaultAllowedReleaseTypes": [
+    "release",
+    "beta"
+  ],
+  "modsFolder": "mods",
+  "mods": [
+    {
+      "type": "modrinth",
+      "id": "U6GY0xp0",
+      "name": "Alex's Caves"
+    },
+    {
+      "type": "modrinth",
+      "id": "2cMuAZAp",
+      "name": "Alex's Mobs"
+    },
+    {
+      "type": "modrinth",
+      "id": "6iTJugQR",
+      "name": "Amendments"
+    },
+    {
+      "type": "modrinth",
+      "id": "EsAfCjCV",
+      "name": "AppleSkin"
+    },
+    {
+      "type": "modrinth",
+      "id": "XxWD5pD3",
+      "name": "Applied Energistics 2"
+    },
+    {
+      "type": "modrinth",
+      "id": "lhGA9TYQ",
+      "name": "Architectury API"
+    },
+    {
+      "type": "modrinth",
+      "id": "tKSQ9ACQ",
+      "name": "Ars Caelum"
+    },
+    {
+      "type": "modrinth",
+      "id": "TKB6INcv",
+      "name": "Ars Nouveau"
+    },
+    {
+      "type": "modrinth",
+      "id": "MBAkmtvl",
+      "name": "Balm"
+    },
+    {
+      "type": "modrinth",
+      "id": "uy4Cnpcm",
+      "name": "Bookshelf"
+    },
+    {
+      "type": "modrinth",
+      "id": "joEfVgkn",
+      "name": "Carry On"
+    },
+    {
+      "type": "modrinth",
+      "id": "jJfV67b1",
+      "name": "Citadel"
+    },
+    {
+      "type": "modrinth",
+      "id": "9s6osm5g",
+      "name": "Cloth Config API"
+    },
+    {
+      "type": "modrinth",
+      "id": "Wnxd13zP",
+      "name": "Clumps"
+    },
+    {
+      "type": "modrinth",
+      "id": "SaCpeal4",
+      "name": "Comforts"
+    },
+    {
+      "type": "curseforge",
+      "id": "457570",
+      "name": "Configured"
+    },
+    {
+      "type": "modrinth",
+      "id": "xv94TkTM",
+      "name": "Controlling"
+    },
+    {
+      "type": "modrinth",
+      "id": "vJnhuDde",
+      "name": "Cooking for Blockheads"
+    },
+    {
+      "type": "modrinth",
+      "id": "LNytGWDc",
+      "name": "Create"
+    },
+    {
+      "type": "modrinth",
+      "id": "sMvUb4Rb",
+      "name": "Create Deco"
+    },
+    {
+      "type": "modrinth",
+      "id": "ResbpANg",
+      "name": "Create Ore Excavation"
+    },
+    {
+      "type": "modrinth",
+      "id": "JWGBpFUP",
+      "name": "Create: Enchantment Industry"
+    },
+    {
+      "type": "modrinth",
+      "id": "Rw1NrDzF",
+      "name": "Cucumber Library"
+    },
+    {
+      "type": "modrinth",
+      "id": "vvuO3ImH",
+      "name": "Curios API"
+    },
+    {
+      "type": "curseforge",
+      "id": "309927",
+      "name": "Curios API (Forge/NeoForge)"
+    },
+    {
+      "type": "modrinth",
+      "id": "DYtfQEYj",
+      "name": "Effortless Building"
+    },
+    {
+      "type": "modrinth",
+      "id": "sk9rgfiA",
+      "name": "Embeddium"
+    },
+    {
+      "type": "modrinth",
+      "id": "UVtY3ZAC",
+      "name": "Enchantment Descriptions"
+    },
+    {
+      "type": "modrinth",
+      "id": "NNAgCjsB",
+      "name": "Entity Culling"
+    },
+    {
+      "type": "curseforge",
+      "id": "491794",
+      "name": "Explorer's Compass"
+    },
+    {
+      "type": "modrinth",
+      "id": "Fb4jn8m6",
+      "name": "FallingTree"
+    },
+    {
+      "type": "modrinth",
+      "id": "R2OftAxM",
+      "name": "Farmer's Delight"
+    },
+    {
+      "type": "modrinth",
+      "id": "uXXizFIs",
+      "name": "FerriteCore"
+    },
+    {
+      "type": "curseforge",
+      "id": "314906",
+      "name": "FTB Chunks (Forge)"
+    },
+    {
+      "type": "curseforge",
+      "id": "404465",
+      "name": "FTB Library (Forge)"
+    },
+    {
+      "type": "curseforge",
+      "id": "404468",
+      "name": "FTB Teams (Forge)"
+    },
+    {
+      "type": "modrinth",
+      "id": "XJ9is6vj",
+      "name": "ImmersiveMC"
+    },
+    {
+      "type": "modrinth",
+      "id": "uqnMI1kq",
+      "name": "Inventory Tweaks: ReFoxed"
+    },
+    {
+      "type": "modrinth",
+      "id": "nvQzSEkH",
+      "name": "Jade 🔍"
+    },
+    {
+      "type": "modrinth",
+      "id": "lfHFW1mp",
+      "name": "JourneyMap"
+    },
+    {
+      "type": "modrinth",
+      "id": "u6dRKJwZ",
+      "name": "Just Enough Items"
+    },
+    {
+      "type": "curseforge",
+      "id": "240630",
+      "name": "Just Enough Resources (JER)"
+    },
+    {
+      "type": "modrinth",
+      "id": "7uh75ruZ",
+      "name": "KleeSlabs"
+    },
+    {
+      "type": "modrinth",
+      "id": "ordsPcFz",
+      "name": "Kotlin for Forge"
+    },
+    {
+      "type": "modrinth",
+      "id": "onSQdWhM",
+      "name": "libIPN"
+    },
+    {
+      "type": "modrinth",
+      "id": "EltpO5cN",
+      "name": "Lootr"
+    },
+    {
+      "type": "modrinth",
+      "id": "dtWC90iB",
+      "name": "Macaw's Furniture"
+    },
+    {
+      "type": "modrinth",
+      "id": "Ce6I4WUE",
+      "name": "Mekanism"
+    },
+    {
+      "type": "modrinth",
+      "id": "a6F3uASn",
+      "name": "Mekanism Additions"
+    },
+    {
+      "type": "modrinth",
+      "id": "OFVYKsAk",
+      "name": "Mekanism Generators"
+    },
+    {
+      "type": "modrinth",
+      "id": "nmDcB62a",
+      "name": "ModernFix"
+    },
+    {
+      "type": "modrinth",
+      "id": "aC3cM3Vq",
+      "name": "Mouse Tweaks"
+    },
+    {
+      "type": "modrinth",
+      "id": "8oi3bsk5",
+      "name": "Terralith"
+    },
+    {
+      "type": "modrinth",
+      "id": "wGoQDPN5",
+      "name": "Vivecraft"
+    },
+    {
+      "type": "modrinth",
+      "id": "LOpKHB2A",
+      "name": "Waystones"
+    },
+    {
+      "type": "modrinth",
+      "id": "Ck4E7v7R",
+      "name": "GuideME"
+    },
+    {
+      "type": "modrinth",
+      "id": "DWIEOniQ",
+      "name": "Iron Jetpacks"
+    },
+    {
+      "type": "modrinth",
+      "id": "kNxa8z3e",
+      "name": "Macaw's Doors"
+    },
+    {
+      "type": "modrinth",
+      "id": "C7I0BCni",
+      "name": "Macaw's Windows"
+    },
+    {
+      "type": "modrinth",
+      "id": "yMou0v20",
+      "name": "Modern Networking"
+    },
+    {
+      "type": "modrinth",
+      "id": "twkfQtEc",
+      "name": "Moonlight Lib"
+    },
+    {
+      "type": "modrinth",
+      "id": "O53VhQoZ",
+      "name": "My Nether's Delight"
+    },
+    {
+      "type": "modrinth",
+      "id": "F8BQNPWX",
+      "name": "Naturalist"
+    },
+    {
+      "type": "modrinth",
+      "id": "fPetb5Kh",
+      "name": "Nature's Compass"
+    },
+    {
+      "type": "modrinth",
+      "id": "nPZr02ET",
+      "name": "NetherPortalFix"
+    },
+    {
+      "type": "modrinth",
+      "id": "yM94ont6",
+      "name": "Not Enough Crashes"
+    },
+    {
+      "type": "modrinth",
+      "id": "GchcoXML",
+      "name": "Oculus"
+    },
+    {
+      "type": "modrinth",
+      "id": "nU0bVIaL",
+      "name": "Patchouli"
+    },
+    {
+      "type": "modrinth",
+      "id": "LN9BxssP",
+      "name": "SuperMartijn642's Config Lib"
+    },
+    {
+      "type": "modrinth",
+      "id": "rOUBggPv",
+      "name": "SuperMartijn642's Core Lib"
+    },
+    {
+      "type": "modrinth",
+      "id": "fFEIiSDQ",
+      "name": "Supplementaries"
+    },
+    {
+      "type": "modrinth",
+      "id": "4QrnfueM",
+      "name": "Trash Cans"
+    },
+    {
+      "type": "modrinth",
+      "id": "bRAPbNyF",
+      "name": "Vein Mining"
+    },
+    {
+      "type": "modrinth",
+      "id": "Ua7DFN59",
+      "name": "YUNG's API"
+    },
+    {
+      "type": "modrinth",
+      "id": "XNlO7sBv",
+      "name": "YUNG's Better Desert Temples"
+    },
+    {
+      "type": "modrinth",
+      "id": "z9Ve58Ih",
+      "name": "YUNG's Better Jungle Temples"
+    },
+    {
+      "type": "modrinth",
+      "id": "HjmxVlSr",
+      "name": "YUNG's Better Mineshafts"
+    },
+    {
+      "type": "modrinth",
+      "id": "3dT9sgt4",
+      "name": "YUNG's Better Ocean Monuments"
+    },
+    {
+      "type": "modrinth",
+      "id": "fuuu3xnx",
+      "name": "Searchables"
+    },
+    {
+      "type": "modrinth",
+      "id": "iRmWy6ga",
+      "name": "Pipez"
+    },
+    {
+      "type": "modrinth",
+      "id": "TyCTlI4b",
+      "name": "Sophisticated Backpacks"
+    },
+    {
+      "type": "modrinth",
+      "id": "nmoqTijg",
+      "name": "Sophisticated Core"
+    },
+    {
+      "type": "modrinth",
+      "id": "hMlaZH8f",
+      "name": "Sophisticated Storage"
+    },
+    {
+      "type": "modrinth",
+      "id": "9eGKb6K1",
+      "name": "Simple Voice Chat"
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+[
+  {
+    "name": "Alex's Caves",
+    "type": "modrinth",
+    "id": "U6GY0xp0",
+    "fileName": "alexscaves-2.0.2.jar",
+    "releasedOn": "2024-10-26T17:20:17.825067Z",
+    "hash": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
+    "downloadUrl": "https://cdn.modrinth.com/data/U6GY0xp0/versions/lC8HHXOF/alexscaves-2.0.2.jar"
+  },
+  {
+    "name": "Alex's Mobs",
+    "type": "modrinth",
+    "id": "2cMuAZAp",
+    "fileName": "alexsmobs-1.22.9.jar",
+    "releasedOn": "2024-09-06T21:39:41.100913Z",
+    "hash": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
+    "downloadUrl": "https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar"
+  },
+  {
+    "name": "Amendments",
+    "type": "modrinth",
+    "id": "6iTJugQR",
+    "fileName": "amendments-1.20-2.2.2.jar",
+    "releasedOn": "2025-09-30T15:51:55.443409Z",
+    "hash": "bbbc45681cf8905651b977d4b53d7387a1103c4a",
+    "downloadUrl": "https://cdn.modrinth.com/data/6iTJugQR/versions/NCs7sRuH/amendments-1.20-2.2.2.jar"
+  },
+  {
+    "name": "AppleSkin",
+    "type": "modrinth",
+    "id": "EsAfCjCV",
+    "fileName": "appleskin-forge-mc1.20.1-2.5.1.jar",
+    "releasedOn": "2023-09-27T05:07:37.394825Z",
+    "hash": "81919356f84eab14258db98924b66c3c38e372b1",
+    "downloadUrl": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar"
+  },
+  {
+    "name": "Applied Energistics 2",
+    "type": "modrinth",
+    "id": "XxWD5pD3",
+    "fileName": "appliedenergistics2-forge-15.4.10.jar",
+    "releasedOn": "2025-10-25T14:52:59.275713Z",
+    "hash": "ac255a120499f79f8deade474da09e3c00ff9bad",
+    "downloadUrl": "https://cdn.modrinth.com/data/XxWD5pD3/versions/7KVs6HMQ/appliedenergistics2-forge-15.4.10.jar"
+  },
+  {
+    "name": "Architectury API",
+    "type": "modrinth",
+    "id": "lhGA9TYQ",
+    "fileName": "architectury-9.2.14-forge.jar",
+    "releasedOn": "2024-02-26T13:19:00.816154Z",
+    "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+    "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
+  },
+  {
+    "name": "Ars Caelum",
+    "type": "modrinth",
+    "id": "tKSQ9ACQ",
+    "fileName": "ars_caelum-1.20.1-2.0.1.jar",
+    "releasedOn": "2024-03-10T15:07:22.267588Z",
+    "hash": "3e8f576283cd74c1ddd644b6171a3f63976b661e",
+    "downloadUrl": "https://cdn.modrinth.com/data/tKSQ9ACQ/versions/k0kmUrFM/ars_caelum-1.20.1-2.0.1.jar"
+  },
+  {
+    "name": "Ars Nouveau",
+    "type": "modrinth",
+    "id": "TKB6INcv",
+    "fileName": "ars_nouveau-1.20.1-4.12.7-all.jar",
+    "releasedOn": "2025-06-23T21:54:13.991992Z",
+    "hash": "6c23a97d771ea7ad43bee9bd71d2f2a1f2084170",
+    "downloadUrl": "https://cdn.modrinth.com/data/TKB6INcv/versions/Hw2aD01e/ars_nouveau-1.20.1-4.12.7-all.jar"
+  },
+  {
+    "name": "Balm",
+    "type": "modrinth",
+    "id": "MBAkmtvl",
+    "fileName": "balm-forge-1.20.1-7.3.37-all.jar",
+    "releasedOn": "2025-10-09T16:46:34.849157Z",
+    "hash": "8ed877e61adf550c68aa4fc75d163ff97c0c5006",
+    "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Ue8C6cKq/balm-forge-1.20.1-7.3.37-all.jar"
+  },
+  {
+    "hash": "c1047a1116886365ef5c37879cb250d312f74283",
+    "fileName": "BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar",
+    "name": "Better Advancements",
+    "type": "modrinth",
+    "id": "Q2OqKxDG",
+    "releasedOn": "2024-12-21T12:21:13.237837Z",
+    "downloadUrl": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/NS5G3ENg/BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar"
+  },
+  {
+    "name": "Bookshelf",
+    "type": "modrinth",
+    "id": "uy4Cnpcm",
+    "fileName": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+    "releasedOn": "2024-06-13T15:17:37.621721Z",
+    "hash": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5",
+    "downloadUrl": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/tNwsir0K/Bookshelf-Forge-1.20.1-20.2.13.jar"
+  },
+  {
+    "name": "Carry On",
+    "type": "modrinth",
+    "id": "joEfVgkn",
+    "fileName": "carryon-forge-1.20.1-2.1.2.7.jar",
+    "releasedOn": "2023-11-19T22:29:28.090790Z",
+    "hash": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+    "downloadUrl": "https://cdn.modrinth.com/data/joEfVgkn/versions/edGQD16r/carryon-forge-1.20.1-2.1.2.7.jar"
+  },
+  {
+    "name": "Citadel",
+    "type": "modrinth",
+    "id": "jJfV67b1",
+    "fileName": "citadel-2.6.2-1.20.1.jar",
+    "releasedOn": "2025-06-27T17:45:17.457640Z",
+    "hash": "06866f4005d3f6ba63ac01f715b352842d809bbd",
+    "downloadUrl": "https://cdn.modrinth.com/data/jJfV67b1/versions/oD1qDb1C/citadel-2.6.2-1.20.1.jar"
+  },
+  {
+    "name": "Cloth Config API",
+    "type": "modrinth",
+    "id": "9s6osm5g",
+    "fileName": "cloth-config-11.1.136-forge.jar",
+    "releasedOn": "2024-09-16T17:13:50.725690Z",
+    "hash": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+    "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar"
+  },
+  {
+    "name": "Clumps",
+    "type": "modrinth",
+    "id": "Wnxd13zP",
+    "fileName": "Clumps-forge-1.20.1-12.0.0.4.jar",
+    "releasedOn": "2024-04-21T05:04:09.708311Z",
+    "hash": "8809c7aa6c71389e9c59abfe5def52c1cb8d4f1c",
+    "downloadUrl": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nAHGB5ls/Clumps-forge-1.20.1-12.0.0.4.jar"
+  },
+  {
+    "name": "Comforts",
+    "type": "modrinth",
+    "id": "SaCpeal4",
+    "fileName": "comforts-forge-6.4.0+1.20.1.jar",
+    "releasedOn": "2024-07-05T03:34:46.901956Z",
+    "hash": "e7b9fe89566bb1ee013e33745f22f309f679536e",
+    "downloadUrl": "https://cdn.modrinth.com/data/SaCpeal4/versions/gBDsc134/comforts-forge-6.4.0%2B1.20.1.jar"
+  },
+  {
+    "name": "Configured",
+    "type": "curseforge",
+    "id": "457570",
+    "fileName": "configured-forge-1.20.1-2.2.3.jar",
+    "releasedOn": "2024-03-14T03:01:07.233Z",
+    "hash": "065c2d287a52f52fc8d33d780192325ee6f4b6ae",
+    "downloadUrl": "https://edge.forgecdn.net/files/5180/900/configured-forge-1.20.1-2.2.3.jar"
+  },
+  {
+    "name": "Controlling",
+    "type": "modrinth",
+    "id": "xv94TkTM",
+    "fileName": "Controlling-forge-1.20.1-12.0.2.jar",
+    "releasedOn": "2023-07-16T04:39:30.644589Z",
+    "hash": "6195a3d1464f8fb641d7e165163aea1a857ce08e",
+    "downloadUrl": "https://cdn.modrinth.com/data/xv94TkTM/versions/LH6Bi6Am/Controlling-forge-1.20.1-12.0.2.jar"
+  },
+  {
+    "name": "Cooking for Blockheads",
+    "type": "modrinth",
+    "id": "vJnhuDde",
+    "fileName": "cookingforblockheads-forge-1.20.1-16.0.14.jar",
+    "releasedOn": "2025-09-08T11:10:25.500852Z",
+    "hash": "f43f49fea847bc0ceecbdad5e640d887caa16bc9",
+    "downloadUrl": "https://cdn.modrinth.com/data/vJnhuDde/versions/mYMjjpcD/cookingforblockheads-forge-1.20.1-16.0.14.jar"
+  },
+  {
+    "name": "Create",
+    "type": "modrinth",
+    "id": "LNytGWDc",
+    "fileName": "create-1.20.1-6.0.8.jar",
+    "releasedOn": "2025-11-02T16:10:25.364809Z",
+    "hash": "b13d912b9247a38d66d11598c121442585a1c1e9",
+    "downloadUrl": "https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar"
+  },
+  {
+    "name": "Create Deco",
+    "type": "modrinth",
+    "id": "sMvUb4Rb",
+    "fileName": "createdeco-2.0.3-1.20.1-forge.jar",
+    "releasedOn": "2025-04-01T04:19:20.227934Z",
+    "hash": "54c8ad5686b846310bca9e69982a455e668dede3",
+    "downloadUrl": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/e9gaSRMd/createdeco-2.0.3-1.20.1-forge.jar"
+  },
+  {
+    "name": "Create Ore Excavation",
+    "type": "modrinth",
+    "id": "ResbpANg",
+    "fileName": "createoreexcavation-1.20-1.6.5.jar",
+    "releasedOn": "2025-10-26T16:06:28.824430Z",
+    "hash": "ef135e6124a7c8bb04a6cf8ef3d3680de4f44425",
+    "downloadUrl": "https://cdn.modrinth.com/data/ResbpANg/versions/9mCy0ePP/createoreexcavation-1.20-1.6.5.jar"
+  },
+  {
+    "name": "Create: Enchantment Industry",
+    "type": "modrinth",
+    "id": "JWGBpFUP",
+    "fileName": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+    "releasedOn": "2025-06-15T02:32:18.532812Z",
+    "hash": "06fbad254100a7c9fcf829e1e33c5348d9799a87",
+    "downloadUrl": "https://cdn.modrinth.com/data/JWGBpFUP/versions/E8bB0Vws/create_enchantment_industry-1.3.3-for-create-6.0.6.jar"
+  },
+  {
+    "name": "Cucumber Library",
+    "type": "modrinth",
+    "id": "Rw1NrDzF",
+    "fileName": "Cucumber-1.20.1-7.0.16.jar",
+    "releasedOn": "2025-11-03T02:24:06.959179Z",
+    "hash": "88a9ec30e4acb5c80a3ae060ad70b79e945293c6",
+    "downloadUrl": "https://cdn.modrinth.com/data/Rw1NrDzF/versions/xnLznSfT/Cucumber-1.20.1-7.0.16.jar"
+  },
+  {
+    "name": "Curios API",
+    "type": "modrinth",
+    "id": "vvuO3ImH",
+    "fileName": "curios-forge-5.14.1+1.20.1.jar",
+    "releasedOn": "2025-04-13T13:09:28.168539Z",
+    "hash": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+    "downloadUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar"
+  },
+  {
+    "name": "Curios API (Forge/NeoForge)",
+    "type": "curseforge",
+    "id": "309927",
+    "fileName": "curios-forge-5.14.1+1.20.1.jar",
+    "releasedOn": "2025-04-13T13:09:30.85Z",
+    "hash": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+    "downloadUrl": "https://edge.forgecdn.net/files/6418/456/curios-forge-5.14.1%2b1.20.1.jar"
+  },
+  {
+    "name": "Effortless Building",
+    "type": "modrinth",
+    "id": "DYtfQEYj",
+    "fileName": "effortlessbuilding-1.20.1-3.10.jar",
+    "releasedOn": "2025-03-22T11:05:41.920666Z",
+    "hash": "f71f32238e9d08e71b95941d8f69740d245f2a6a",
+    "downloadUrl": "https://cdn.modrinth.com/data/DYtfQEYj/versions/GCzIlABB/effortlessbuilding-1.20.1-3.10.jar"
+  },
+  {
+    "name": "Embeddium",
+    "type": "modrinth",
+    "id": "sk9rgfiA",
+    "fileName": "embeddium-0.3.31+mc1.20.1.jar",
+    "releasedOn": "2024-08-31T23:11:49.184634Z",
+    "hash": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+    "downloadUrl": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+  },
+  {
+    "name": "Enchantment Descriptions",
+    "type": "modrinth",
+    "id": "UVtY3ZAC",
+    "fileName": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+    "releasedOn": "2024-10-28T22:30:15.185428Z",
+    "hash": "7cb8e1242d058c9800e1f3f886930647de7f44e1",
+    "downloadUrl": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/nq9ce04C/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"
+  },
+  {
+    "name": "Entity Culling",
+    "type": "modrinth",
+    "id": "NNAgCjsB",
+    "fileName": "entityculling-forge-1.9.3-mc1.20.1.jar",
+    "releasedOn": "2025-10-30T19:05:52.890832Z",
+    "hash": "8faea4818faab6b870ee370b52434b016542b519",
+    "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/H7zaVcD6/entityculling-forge-1.9.3-mc1.20.1.jar"
+  },
+  {
+    "name": "Explorer's Compass",
+    "type": "curseforge",
+    "id": "491794",
+    "fileName": "ExplorersCompass-1.20.1-1.3.3-forge.jar",
+    "releasedOn": "2023-08-19T14:01:58.31Z",
+    "hash": "4c327f26a44ab8d80d73961ff12700d120c4610c",
+    "downloadUrl": "https://edge.forgecdn.net/files/4712/194/ExplorersCompass-1.20.1-1.3.3-forge.jar"
+  },
+  {
+    "name": "FallingTree",
+    "type": "modrinth",
+    "id": "Fb4jn8m6",
+    "fileName": "FallingTree-1.20.1-4.3.4.jar",
+    "releasedOn": "2024-01-05T20:31:19.975883Z",
+    "hash": "617b79628fca3968979c1cc5f42edda882a55adb",
+    "downloadUrl": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/NrtzFkZE/FallingTree-1.20.1-4.3.4.jar"
+  },
+  {
+    "name": "Farmer's Delight",
+    "type": "modrinth",
+    "id": "R2OftAxM",
+    "fileName": "FarmersDelight-1.20.1-1.2.9.jar",
+    "releasedOn": "2025-08-23T01:50:00.006575Z",
+    "hash": "ca9417c369e75d38dacdac59937223e5f6adcc18",
+    "downloadUrl": "https://cdn.modrinth.com/data/R2OftAxM/versions/8rPF1pFi/FarmersDelight-1.20.1-1.2.9.jar"
+  },
+  {
+    "name": "FerriteCore",
+    "type": "modrinth",
+    "id": "uXXizFIs",
+    "fileName": "ferritecore-6.0.1-forge.jar",
+    "releasedOn": "2023-10-22T13:40:26.306516Z",
+    "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+    "downloadUrl": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+  },
+  {
+    "name": "FTB Chunks (Forge)",
+    "type": "curseforge",
+    "id": "314906",
+    "fileName": "ftb-chunks-forge-2001.3.6.jar",
+    "releasedOn": "2025-04-17T08:07:07.033Z",
+    "hash": "7fde7917655a3356cab92f17ad2bca34962c4928",
+    "downloadUrl": "https://edge.forgecdn.net/files/6431/735/ftb-chunks-forge-2001.3.6.jar"
+  },
+  {
+    "name": "FTB Library (Forge)",
+    "type": "curseforge",
+    "id": "404465",
+    "fileName": "ftb-library-forge-2001.2.10.jar",
+    "releasedOn": "2025-07-24T16:54:08.133Z",
+    "hash": "9472bb30d0e38cb774b9cc7852bdd8dbf845622b",
+    "downloadUrl": "https://edge.forgecdn.net/files/6807/424/ftb-library-forge-2001.2.10.jar"
+  },
+  {
+    "name": "FTB Teams (Forge)",
+    "type": "curseforge",
+    "id": "404468",
+    "fileName": "ftb-teams-forge-2001.3.1.jar",
+    "releasedOn": "2025-01-27T16:07:52.11Z",
+    "hash": "c2af94e0b86631cb75daa8de2377ff72527651ca",
+    "downloadUrl": "https://edge.forgecdn.net/files/6130/786/ftb-teams-forge-2001.3.1.jar"
+  },
+  {
+    "name": "ImmersiveMC",
+    "type": "modrinth",
+    "id": "XJ9is6vj",
+    "fileName": "immersivemc-1.5.8-1.20.1-forge.jar",
+    "releasedOn": "2025-05-22T23:41:00.434325Z",
+    "hash": "3aae476007733ae44621b0dac035397e9526e57d",
+    "downloadUrl": "https://cdn.modrinth.com/data/XJ9is6vj/versions/zUESD62H/immersivemc-1.5.8-1.20.1-forge.jar"
+  },
+  {
+    "name": "Inventory Tweaks: ReFoxed",
+    "type": "modrinth",
+    "id": "uqnMI1kq",
+    "fileName": "invtweaks-1.20.1-1.2.0.jar",
+    "releasedOn": "2024-11-26T18:52:57.351918Z",
+    "hash": "d0a419f3b026b4949ed178119befbcf734deb6eb",
+    "downloadUrl": "https://cdn.modrinth.com/data/uqnMI1kq/versions/eyPkQyNd/invtweaks-1.20.1-1.2.0.jar"
+  },
+  {
+    "name": "Jade 🔍",
+    "type": "modrinth",
+    "id": "nvQzSEkH",
+    "fileName": "Jade-1.20.1-Forge-11.13.2.jar",
+    "releasedOn": "2025-08-06T14:20:00.809085Z",
+    "hash": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+    "downloadUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar"
+  },
+  {
+    "name": "JourneyMap",
+    "type": "modrinth",
+    "id": "lfHFW1mp",
+    "fileName": "journeymap-1.20.1-5.10.3-forge.jar",
+    "releasedOn": "2024-10-06T18:58:19.627182Z",
+    "hash": "fdd97a782bdc6d0e28a851a9715abb190df47aa6",
+    "downloadUrl": "https://cdn.modrinth.com/data/lfHFW1mp/versions/r7FWVNCs/journeymap-1.20.1-5.10.3-forge.jar"
+  },
+  {
+    "name": "Just Enough Items",
+    "type": "modrinth",
+    "id": "u6dRKJwZ",
+    "fileName": "jei-1.20.1-forge-15.20.0.118.jar",
+    "releasedOn": "2025-11-03T10:39:10.126958Z",
+    "hash": "8e735fcf3f97a62753749e05f14ef49e50eb3d32",
+    "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/MoE0CHNA/jei-1.20.1-forge-15.20.0.118.jar"
+  },
+  {
+    "name": "Just Enough Resources (JER)",
+    "type": "curseforge",
+    "id": "240630",
+    "fileName": "JustEnoughResources-1.20.1-1.4.0.247.jar",
+    "releasedOn": "2024-01-24T19:29:26.507Z",
+    "hash": "2747c58f439c37a01139d35cab59ca1a54114009",
+    "downloadUrl": "https://edge.forgecdn.net/files/5057/220/JustEnoughResources-1.20.1-1.4.0.247.jar"
+  },
+  {
+    "name": "KleeSlabs",
+    "type": "modrinth",
+    "id": "7uh75ruZ",
+    "fileName": "kleeslabs-forge-1.20.1-15.0.9.jar",
+    "releasedOn": "2025-08-09T16:35:45.122005Z",
+    "hash": "78d80213d1ac6a4f560d158d6cbbdb30ae7ed602",
+    "downloadUrl": "https://cdn.modrinth.com/data/7uh75ruZ/versions/wIceOdyy/kleeslabs-forge-1.20.1-15.0.9.jar"
+  },
+  {
+    "name": "Kotlin for Forge",
+    "type": "modrinth",
+    "id": "ordsPcFz",
+    "fileName": "kotlinforforge-4.11.0-all.jar",
+    "releasedOn": "2024-06-06T01:10:20.253226Z",
+    "hash": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
+    "downloadUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar"
+  },
+  {
+    "name": "libIPN",
+    "type": "modrinth",
+    "id": "onSQdWhM",
+    "fileName": "libIPN-forge-1.20-4.0.2.jar",
+    "releasedOn": "2024-03-24T18:17:18.578454Z",
+    "hash": "3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5",
+    "downloadUrl": "https://cdn.modrinth.com/data/onSQdWhM/versions/pdAXmKcS/libIPN-forge-1.20-4.0.2.jar"
+  },
+  {
+    "name": "Lootr",
+    "type": "modrinth",
+    "id": "EltpO5cN",
+    "fileName": "lootr-forge-1.20-0.7.35.93.jar",
+    "releasedOn": "2025-09-04T02:32:15.399196Z",
+    "hash": "a109f9d34f39af38a394a58fc506583eb078704d",
+    "downloadUrl": "https://cdn.modrinth.com/data/EltpO5cN/versions/pvIQeqjt/lootr-forge-1.20-0.7.35.93.jar"
+  },
+  {
+    "name": "Macaw's Furniture",
+    "type": "modrinth",
+    "id": "dtWC90iB",
+    "fileName": "mcw-furniture-3.3.0-mc1.20.1forge.jar",
+    "releasedOn": "2024-08-02T15:54:01.157226Z",
+    "hash": "997ff389bebed728e1e8094ba5438e7beb059ef3",
+    "downloadUrl": "https://cdn.modrinth.com/data/dtWC90iB/versions/jQcvCX79/mcw-furniture-3.3.0-mc1.20.1forge.jar"
+  },
+  {
+    "name": "Mekanism",
+    "type": "modrinth",
+    "id": "Ce6I4WUE",
+    "fileName": "Mekanism-1.20.1-10.4.16.80.jar",
+    "releasedOn": "2025-05-21T13:09:52.248827Z",
+    "hash": "b7f12ae710888b01746507a0aa8cb375f5897158",
+    "downloadUrl": "https://cdn.modrinth.com/data/Ce6I4WUE/versions/uxe1WQp4/Mekanism-1.20.1-10.4.16.80.jar"
+  },
+  {
+    "name": "Mekanism Additions",
+    "type": "modrinth",
+    "id": "a6F3uASn",
+    "fileName": "MekanismAdditions-1.20.1-10.4.16.80.jar",
+    "releasedOn": "2025-05-21T13:10:03.822275Z",
+    "hash": "64e930adf31b23db53412a62b0e8f950e64f7f2d",
+    "downloadUrl": "https://cdn.modrinth.com/data/a6F3uASn/versions/RFiZ24he/MekanismAdditions-1.20.1-10.4.16.80.jar"
+  },
+  {
+    "name": "Mekanism Generators",
+    "type": "modrinth",
+    "id": "OFVYKsAk",
+    "fileName": "MekanismGenerators-1.20.1-10.4.16.80.jar",
+    "releasedOn": "2025-05-21T13:09:59.586672Z",
+    "hash": "53fa707fd204ca1dd099a08995c2197145ff9a36",
+    "downloadUrl": "https://cdn.modrinth.com/data/OFVYKsAk/versions/Th4Czz4N/MekanismGenerators-1.20.1-10.4.16.80.jar"
+  },
+  {
+    "name": "ModernFix",
+    "type": "modrinth",
+    "id": "nmDcB62a",
+    "fileName": "modernfix-forge-5.24.4+mc1.20.1.jar",
+    "releasedOn": "2025-08-01T23:00:08.205986Z",
+    "hash": "daeccb1fbe1d67d426fcc8135cfff463ff0f7e1d",
+    "downloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/CixO1IdG/modernfix-forge-5.24.4%2Bmc1.20.1.jar"
+  },
+  {
+    "name": "Mouse Tweaks",
+    "type": "modrinth",
+    "id": "aC3cM3Vq",
+    "fileName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+    "releasedOn": "2024-05-12T16:27:50.280746Z",
+    "hash": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+    "downloadUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+  },
+  {
+    "name": "Terralith",
+    "type": "modrinth",
+    "id": "8oi3bsk5",
+    "fileName": "Terralith_1.20.x_v2.5.4.jar",
+    "releasedOn": "2024-07-07T22:15:51.167522Z",
+    "hash": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
+    "downloadUrl": "https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar"
+  },
+  {
+    "hash": "f6efcd6c7091d733bd70be48d4b4ae9d817a230e",
+    "fileName": "vivecraft-1.20.1-1.3.3-forge.jar",
+    "name": "Vivecraft",
+    "type": "modrinth",
+    "id": "wGoQDPN5",
+    "releasedOn": "2025-10-20T14:19:55.335179Z",
+    "downloadUrl": "https://cdn.modrinth.com/data/wGoQDPN5/versions/esi3kKdi/vivecraft-1.20.1-1.3.3-forge.jar"
+  },
+  {
+    "name": "Waystones",
+    "type": "modrinth",
+    "id": "LOpKHB2A",
+    "fileName": "waystones-forge-1.20.1-14.1.17.jar",
+    "releasedOn": "2025-08-06T19:01:37.888755Z",
+    "hash": "84ef91e24d19e8441a7e3b921012b2897f42e918",
+    "downloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/WozH13dr/waystones-forge-1.20.1-14.1.17.jar"
+  },
+  {
+    "name": "GuideME",
+    "type": "modrinth",
+    "id": "Ck4E7v7R",
+    "fileName": "guideme-20.1.14.jar",
+    "hash": "57d883148f04989128505a1bd8919629440f714f",
+    "downloadUrl": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/9YGnKYDF/guideme-20.1.14.jar",
+    "releasedOn": "2025-10-19T22:32:07.928990Z"
+  },
+  {
+    "name": "Iron Jetpacks",
+    "type": "modrinth",
+    "id": "DWIEOniQ",
+    "fileName": "IronJetpacks-1.20.1-7.0.9.jar",
+    "hash": "b1fdcfdd48ac4519ea95cb3b8dbaacc5cf819b20",
+    "downloadUrl": "https://cdn.modrinth.com/data/DWIEOniQ/versions/lrauJ1WR/IronJetpacks-1.20.1-7.0.9.jar",
+    "releasedOn": "2025-08-12T22:58:28.739976Z"
+  },
+  {
+    "name": "Macaw's Doors",
+    "type": "modrinth",
+    "id": "kNxa8z3e",
+    "fileName": "mcw-doors-1.1.2-mc1.20.1forge.jar",
+    "hash": "731069f0a9c1377da0681415b6523e71439ae014",
+    "downloadUrl": "https://cdn.modrinth.com/data/kNxa8z3e/versions/yP3Gpe6J/mcw-doors-1.1.2-mc1.20.1forge.jar",
+    "releasedOn": "2025-02-01T16:36:35.803177Z"
+  },
+  {
+    "name": "Macaw's Windows",
+    "type": "modrinth",
+    "id": "C7I0BCni",
+    "fileName": "mcw-mcwwindows-2.4.1-mc1.20.1forge.jar",
+    "hash": "5f19b5765ca9ede4f0a5d9bf0218bd469d0b2b7b",
+    "downloadUrl": "https://cdn.modrinth.com/data/C7I0BCni/versions/sAci0S1N/mcw-mcwwindows-2.4.1-mc1.20.1forge.jar",
+    "releasedOn": "2025-09-23T13:06:49.739675Z"
+  },
+  {
+    "name": "Modern Networking",
+    "type": "modrinth",
+    "id": "yMou0v20",
+    "fileName": "modernnetworking-forge-1.2.0+1.19.2.jar",
+    "hash": "37fd678e52f39cee252fba1a4f45c4367994b776",
+    "downloadUrl": "https://cdn.modrinth.com/data/yMou0v20/versions/fM2vAR7D/modernnetworking-forge-1.2.0%2B1.19.2.jar",
+    "releasedOn": "2025-05-23T15:12:54.478752Z"
+  },
+  {
+    "name": "Moonlight Lib",
+    "type": "modrinth",
+    "id": "twkfQtEc",
+    "fileName": "moonlight-1.20-2.16.15-forge.jar",
+    "hash": "5b87fafe107c93754765b0490fbf0250df520b6e",
+    "downloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/q6pVkPDR/moonlight-1.20-2.16.15-forge.jar",
+    "releasedOn": "2025-10-18T08:20:19.294910Z"
+  },
+  {
+    "name": "My Nether's Delight",
+    "type": "modrinth",
+    "id": "O53VhQoZ",
+    "fileName": "MyNethersDelight-1.20.1-0.1.8.jar",
+    "hash": "b5b78ac524f17ba19242d7778c321ff10476eb9c",
+    "downloadUrl": "https://cdn.modrinth.com/data/O53VhQoZ/versions/Y0doU8aW/MyNethersDelight-1.20.1-0.1.8.jar",
+    "releasedOn": "2025-05-14T18:01:33.955044Z"
+  },
+  {
+    "name": "Naturalist",
+    "type": "modrinth",
+    "id": "F8BQNPWX",
+    "fileName": "naturalist-5.0pre3+forge-1.20.1.jar",
+    "hash": "8e02c89f476d39d279d4b174d1a9137ad45cd8e5",
+    "downloadUrl": "https://cdn.modrinth.com/data/F8BQNPWX/versions/Cx95h37p/naturalist-5.0pre3%2Bforge-1.20.1.jar",
+    "releasedOn": "2025-05-08T19:04:14.933784Z"
+  },
+  {
+    "name": "Nature's Compass",
+    "type": "modrinth",
+    "id": "fPetb5Kh",
+    "fileName": "NaturesCompass-1.20.1-1.11.2-forge.jar",
+    "hash": "31ae930cdbb34e8e05e1954cfb2fee3a3813e850",
+    "downloadUrl": "https://cdn.modrinth.com/data/fPetb5Kh/versions/Og40jCNX/NaturesCompass-1.20.1-1.11.2-forge.jar",
+    "releasedOn": "2023-09-15T23:02:15.024186Z"
+  },
+  {
+    "name": "NetherPortalFix",
+    "type": "modrinth",
+    "id": "nPZr02ET",
+    "fileName": "netherportalfix-forge-1.20-13.0.1.jar",
+    "hash": "2179040063d0e11083e54a9b1957de9f909d0d6f",
+    "downloadUrl": "https://cdn.modrinth.com/data/nPZr02ET/versions/cWPAnu7u/netherportalfix-forge-1.20-13.0.1.jar",
+    "releasedOn": "2023-12-08T13:25:39.213077Z"
+  },
+  {
+    "name": "Not Enough Crashes",
+    "type": "modrinth",
+    "id": "yM94ont6",
+    "fileName": "notenoughcrashes-4.4.9+1.20.1-forge.jar",
+    "hash": "5d786730c1aee28751d480d497ce893cdff0bb87",
+    "downloadUrl": "https://cdn.modrinth.com/data/yM94ont6/versions/6XEwkJBV/notenoughcrashes-4.4.9%2B1.20.1-forge.jar",
+    "releasedOn": "2025-05-30T12:01:42.492624Z"
+  },
+  {
+    "name": "Oculus",
+    "type": "modrinth",
+    "id": "GchcoXML",
+    "fileName": "oculus-mc1.20.1-1.8.0.jar",
+    "hash": "984f774e71790deaec674c7587bd24e0711871b2",
+    "downloadUrl": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+    "releasedOn": "2024-12-24T23:33:42.216148Z"
+  },
+  {
+    "name": "Patchouli",
+    "type": "modrinth",
+    "id": "nU0bVIaL",
+    "fileName": "Patchouli-1.20.1-84.1-FORGE.jar",
+    "hash": "e91d2e2f251375d647d592b670ea6f310c2554eb",
+    "downloadUrl": "https://cdn.modrinth.com/data/nU0bVIaL/versions/8Qyw08ld/Patchouli-1.20.1-84.1-FORGE.jar",
+    "releasedOn": "2025-02-06T16:09:49.287555Z"
+  },
+  {
+    "name": "SuperMartijn642's Config Lib",
+    "type": "modrinth",
+    "id": "LN9BxssP",
+    "fileName": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+    "hash": "f80f9eed728966adcfbcc848633e789645057281",
+    "downloadUrl": "https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+    "releasedOn": "2023-08-21T13:15:59.833389Z"
+  },
+  {
+    "name": "SuperMartijn642's Core Lib",
+    "type": "modrinth",
+    "id": "rOUBggPv",
+    "fileName": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+    "hash": "d37e1148b512c67cee704635b4f07d1f9ea8c31c",
+    "downloadUrl": "https://cdn.modrinth.com/data/rOUBggPv/versions/VWJoqHin/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+    "releasedOn": "2024-12-29T22:15:09.734450Z"
+  },
+  {
+    "name": "Supplementaries",
+    "type": "modrinth",
+    "id": "fFEIiSDQ",
+    "fileName": "supplementaries-1.20-3.1.41.jar",
+    "hash": "9ab9dd5ffed81cbb547facf2849920af99bf96c3",
+    "downloadUrl": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/LAQ22yJj/supplementaries-1.20-3.1.41.jar",
+    "releasedOn": "2025-10-16T13:05:34.349440Z"
+  },
+  {
+    "name": "Trash Cans",
+    "type": "modrinth",
+    "id": "4QrnfueM",
+    "fileName": "trashcans-1.0.18b-forge-mc1.20.jar",
+    "hash": "4bc991b861a981921d06b731368239ce6ea571d3",
+    "downloadUrl": "https://cdn.modrinth.com/data/4QrnfueM/versions/Q0Ym1HHm/trashcans-1.0.18b-forge-mc1.20.jar",
+    "releasedOn": "2023-08-19T13:50:16.258281Z"
+  },
+  {
+    "name": "Vein Mining",
+    "type": "modrinth",
+    "id": "bRAPbNyF",
+    "fileName": "veinmining-forge-1.5.0+1.20.1.jar",
+    "hash": "e484d2f2556bb638c4c3da5e5542eae70035f98a",
+    "downloadUrl": "https://cdn.modrinth.com/data/bRAPbNyF/versions/qV4B4EMI/veinmining-forge-1.5.0%2B1.20.1.jar",
+    "releasedOn": "2024-06-28T03:44:46.557061Z"
+  },
+  {
+    "name": "YUNG's API",
+    "type": "modrinth",
+    "id": "Ua7DFN59",
+    "fileName": "YungsApi-1.20-Forge-4.0.6.jar",
+    "hash": "af584b690f5646c6032002b58abc4591beed3833",
+    "downloadUrl": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar",
+    "releasedOn": "2024-09-30T06:13:58.953111Z"
+  },
+  {
+    "name": "YUNG's Better Desert Temples",
+    "type": "modrinth",
+    "id": "XNlO7sBv",
+    "fileName": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+    "hash": "31b386b2dbaa4933e0a10ccdfb25f56da16931a6",
+    "downloadUrl": "https://cdn.modrinth.com/data/XNlO7sBv/versions/lRK2ZA9U/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+    "releasedOn": "2023-09-26T03:48:24.740048Z"
+  },
+  {
+    "name": "YUNG's Better Jungle Temples",
+    "type": "modrinth",
+    "id": "z9Ve58Ih",
+    "fileName": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+    "hash": "0b3c8556983895fea980247bb4d437ca535e7259",
+    "downloadUrl": "https://cdn.modrinth.com/data/z9Ve58Ih/versions/CXQc6EnZ/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+    "releasedOn": "2024-05-10T03:09:07.984818Z"
+  },
+  {
+    "name": "YUNG's Better Mineshafts",
+    "type": "modrinth",
+    "id": "HjmxVlSr",
+    "fileName": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+    "hash": "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
+    "downloadUrl": "https://cdn.modrinth.com/data/HjmxVlSr/versions/kVO57zxB/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+    "releasedOn": "2023-09-25T20:44:28.198026Z"
+  },
+  {
+    "name": "YUNG's Better Ocean Monuments",
+    "type": "modrinth",
+    "id": "3dT9sgt4",
+    "fileName": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+    "hash": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f",
+    "downloadUrl": "https://cdn.modrinth.com/data/3dT9sgt4/versions/SN4iZ7wf/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+    "releasedOn": "2023-11-20T02:56:09.758630Z"
+  },
+  {
+    "name": "Searchables",
+    "type": "modrinth",
+    "id": "fuuu3xnx",
+    "fileName": "Searchables-forge-1.20.1-1.0.3.jar",
+    "hash": "5b976f6e76ec74cdef21865e31f56bcb11558db7",
+    "downloadUrl": "https://cdn.modrinth.com/data/fuuu3xnx/versions/PM9yAW1G/Searchables-forge-1.20.1-1.0.3.jar",
+    "releasedOn": "2024-04-23T06:56:56.381361Z"
+  },
+  {
+    "name": "Pipez",
+    "type": "modrinth",
+    "id": "iRmWy6ga",
+    "fileName": "pipez-forge-1.20.1-1.2.26.jar",
+    "hash": "31d86989352260410122afbb93ca073351a9331c",
+    "downloadUrl": "https://cdn.modrinth.com/data/iRmWy6ga/versions/Mtjt7u5h/pipez-forge-1.20.1-1.2.26.jar",
+    "releasedOn": "2025-08-30T15:58:36.755796Z"
+  },
+  {
+    "name": "Sophisticated Backpacks",
+    "type": "modrinth",
+    "id": "TyCTlI4b",
+    "fileName": "sophisticatedbackpacks-1.20.1-3.24.12.1411.jar",
+    "hash": "c6624f4719cfa8c15ef87860570a2748afd715da",
+    "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/ePNVFnS7/sophisticatedbackpacks-1.20.1-3.24.12.1411.jar",
+    "releasedOn": "2025-10-31T10:20:39.100246Z"
+  },
+  {
+    "name": "Sophisticated Core",
+    "type": "modrinth",
+    "id": "nmoqTijg",
+    "fileName": "sophisticatedcore-1.20.1-1.2.107.1240.jar",
+    "hash": "a0a8e69b482e18bc82404c57f868db06d827ffca",
+    "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/qpP3IdRu/sophisticatedcore-1.20.1-1.2.107.1240.jar",
+    "releasedOn": "2025-10-31T05:57:49.898960Z"
+  },
+  {
+    "name": "Sophisticated Storage",
+    "type": "modrinth",
+    "id": "hMlaZH8f",
+    "fileName": "sophisticatedstorage-1.20.1-1.4.15.1362.jar",
+    "hash": "c82e2a0fa2f9625b2183f82a5c152c940739a4a4",
+    "downloadUrl": "https://cdn.modrinth.com/data/hMlaZH8f/versions/2AF8akP3/sophisticatedstorage-1.20.1-1.4.15.1362.jar",
+    "releasedOn": "2025-10-31T06:00:49.479055Z"
+  },
+  {
+    "name": "Simple Voice Chat",
+    "type": "modrinth",
+    "id": "9eGKb6K1",
+    "fileName": "voicechat-forge-1.20.1-2.6.6.jar",
+    "hash": "691c62216ac4c86651c1062710682e5310a3201a",
+    "downloadUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ppDpEP1j/voicechat-forge-1.20.1-2.6.6.jar",
+    "releasedOn": "2025-10-17T13:24:54.162614Z"
+  }
+]

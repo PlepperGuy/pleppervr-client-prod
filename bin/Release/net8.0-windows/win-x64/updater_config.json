@@ -1,0 +1,19 @@
+{
+  "RepoOwner": "PlepperGuy",
+  "RepoName": "pleppervr-client-production",
+  "InstanceName": "PlepperVR_Test",
+  "PrismLauncherPath": "%LOCALAPPDATA%\\Programs\\PrismLauncher\\prismlauncher.exe",
+  "PrismDataDir": "%APPDATA%\\PrismLauncher",
+  "EnableBackup": true,
+  "LaunchAfterUpdate": true,
+  "SkipUpdateIfCurrent": false,
+  "BackupItems": [
+    "options.txt",
+    "config",
+    "saves",
+    "resourcepacks",
+    "shaderpacks",
+    "screenshots",
+    "instance.cfg"
+  ]
+}

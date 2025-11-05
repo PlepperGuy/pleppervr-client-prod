@@ -1,0 +1,66 @@
+# PlepperVR Modpack .gitignore
+
+# General
+.DS_Store
+Thumbs.db
+
+# Minecraft
+*.log
+logs/
+crash-reports/
+*.hprof
+
+# Personal Configuration
+options.txt
+servers.dat
+usercache.json
+usernamecache.json
+
+# Prism Launcher
+.packed-owner
+instance.cfg
+.primedb
+
+# Local Files
+local/
+resourcepacks/
+shaderpacks/
+saves/
+screenshots/
+server-resource-packs/
+texturepacks/
+journeymap/
+patchouli_books/
+schematics/
+
+# Temporary Files
+.tmp/
+temp/
+*.tmp
+*.temp
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Mod Manager Files
+.mmmcache/
+.mmmtemp/
+
+# But keep important configuration files
+!modlist.json
+!modlist-lock.json
+!mmm.exe
+!CLAUDE.md
+!docs/
+!scripts/
+!.gitignoreOpenJDK17U-jdk_x64_windows_hotspot_17.0.12_7.zip
+mmm.exe
+PlepperVR_Updater.zip
+*.jar

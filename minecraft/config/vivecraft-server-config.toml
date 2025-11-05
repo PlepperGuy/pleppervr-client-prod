@@ -1,0 +1,117 @@
+
+[general]
+	debug = false
+	checkForUpdate = true
+	checkForUpdateType = "r"
+	vr_only = false
+	vive_only = false
+	allow_op = true
+	#
+	# default: 10.00, min: 0.00, max: 100.00
+	messageAndKickDelay = 10.0
+	vrFun = true
+	sendDataToOwner = false
+
+[messages]
+	enabled = false
+	welcomeVR = "%s has joined with standing VR!"
+	welcomeNonVR = "%s has joined with Non-VR companion!"
+	welcomeSeated = "%s has joined with seated VR!"
+	welcomeVanilla = "%s has joined as a Muggle!"
+	leaveMessage = "%s has disconnected from the server!"
+	deathVR = "%s died in standing VR!"
+	deathNonVR = "%s died in Non-VR companion!"
+	deathSeated = "%s died in seated VR!"
+	deathVanilla = "%s died as a Muggle!"
+	deathByMobVR = "%1$s was slain by %2$s in standing VR!"
+	deathByMobNonVR = "%1$s was slain by %2$s in Non-VR companion!"
+	deathByMobSeated = "%1$s was slain by %2$s in seated VR!"
+	deathByMobVanilla = "%1$s was slain by %2$s as a Muggle!"
+	KickViveOnly = "This server is configured for Vivecraft players only."
+	KickVROnly = "This server is configured for VR players only."
+
+[vrChanges]
+	#
+	# default: 1.75, min: 0.10, max: 10.00
+	creeperSwellDistance = 1.75
+	#
+	# default: -0.40, min: -0.70, max: 0.00
+	mobAttackRangeAdjustment = -0.4
+	dualWielding = true
+	#
+	# default: 0.00, min: 0.00, max: 5.00
+	bootsArmorDamage = 0.0
+	#
+	# default: 1.00, min: 0.00, max: 1.00
+	projectileInaccuracyMultiplier = 1.0
+	allowFasterBlockBreaking = true
+	allowRoomscaleShieldBlocking = true
+	allowAttacksWhileBlocking = true
+
+	[vrChanges.bow]
+		#
+		# default: 2.00, min: 1.00, max: 10.00
+		standingMultiplier = 2.0
+		#
+		# default: 1.00, min: 1.00, max: 10.00
+		seatedMultiplier = 1.0
+		#
+		# default: 3.00, min: 1.00, max: 10.00
+		standingHeadshotMultiplier = 3.0
+		#
+		# default: 2.00, min: 1.00, max: 10.00
+		seatedHeadshotMultiplier = 2.0
+		#
+		# default: 1.00, min: 1.00, max: 10.00
+		vanillaHeadshotMultiplier = 1.0
+		headshotIndicator = "BOTH"
+
+[pvp]
+	notifyBlockedDamage = false
+	VRvsVR = true
+	SEATEDVRvsSEATEDVR = true
+	VRvsNONVR = true
+	SEATEDVRvsNONVR = true
+	VRvsSEATEDVR = true
+
+[climbey]
+	enabled = true
+	blockmode = "DISABLED"
+	blocklist = ["white_wool", "dirt", "grass_block"]
+
+[crawling]
+	enabled = true
+
+[teleport]
+	enabled = true
+	limitedSurvival = false
+	#
+	# default: 4, min: 1, max: 16
+	upLimit = 4
+	#
+	# default: 4, min: 1, max: 16
+	downLimit = 4
+	#
+	# default: 16, min: 1, max: 32
+	horizontalLimit = 16
+
+[worldScale]
+	limitRange = false
+	#
+	# default: 0.50, min: 0.10, max: 100.00
+	min = 0.5
+	#
+	# default: 2.00, min: 0.10, max: 100.00
+	max = 2.0
+
+[settingOverrides]
+	thirdPersonItems = false
+	thirdPersonItemsCustom = false
+
+[vrSwitching]
+	enabled = true
+
+[debug]
+	debugParticles = false
+	debugParticlesHead = false
+

@@ -1,0 +1,27 @@
+{
+  "formatVersion": 1,
+  "components": [
+    {
+      "cachedName": "Minecraft",
+      "cachedVersion": "1.20.1",
+      "cachedVolatile": true,
+      "dependencyOnly": false,
+      "uid": "net.minecraft",
+      "version": "1.20.1"
+    },
+    {
+      "cachedName": "Forge",
+      "cachedRequires": [
+        {
+          "equals": "1.20.1",
+          "uid": "net.minecraft"
+        }
+      ],
+      "cachedVersion": "47.2.20",
+      "cachedVolatile": true,
+      "dependencyOnly": false,
+      "uid": "net.minecraftforge",
+      "version": "47.2.20"
+    }
+  ]
+}

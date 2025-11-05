@@ -1,0 +1,6 @@
+C:\Users\white\AppData\Roaming\PrismLauncher\instances\pleppervr-client-testing\obj\Release\net6.0-windows\PlepperVR_Updater.csproj.AssemblyReference.cache
+C:\Users\white\AppData\Roaming\PrismLauncher\instances\pleppervr-client-testing\obj\Release\net6.0-windows\PlepperVR_Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\white\AppData\Roaming\PrismLauncher\instances\pleppervr-client-testing\obj\Release\net6.0-windows\PlepperVR_Updater.AssemblyInfoInputs.cache
+C:\Users\white\AppData\Roaming\PrismLauncher\instances\pleppervr-client-testing\obj\Release\net6.0-windows\PlepperVR_Updater.AssemblyInfo.cs
+C:\Users\white\AppData\Roaming\PrismLauncher\instances\pleppervr-client-testing\obj\Release\net6.0-windows\PlepperVR_Updater.csproj.CoreCompileInputs.cache
+C:\Users\white\AppData\Roaming\PrismLauncher\instances\pleppervr-client-testing\obj\Release\net6.0-windows\PlepperVR_Updater.sourcelink.json
